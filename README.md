@@ -23,6 +23,13 @@ A curated list of repositories and papers on Embodied AI in ROS ecosystem.
 
 ### Projects
 
+- [rai-agriculture-demo](https://github.com/RobotecAI/rai-agriculture-demo) + [rai docs link](https://github.com/RobotecAI/rai/blob/development/docs/demos/agriculture.md) - in a beautiful scene of a virtual orchard, RAI goes beyond obstacle detection to analyze best course of action for a given unexpected situation.
+- [rai-manipulation-demo](https://github.com/RobotecAI/rai-manipulation-demo) + [rai docs link](https://github.com/RobotecAI/rai/blob/development/docs/demos/manipulation.md) - complete flexible manipulation tasks thanks to RAI and Grounded SAM 2 
+- [rai-rosbot-xl-demo](https://github.com/RobotecAI/rai-rosbot-xl-demo) + [rai docs link](https://github.com/RobotecAI/rai/blob/development/docs/demos/rosbot_xl.md) - demonstrate RAI's interaction with an autonomous mobile robot platform for navigation and control
 - [tabletop-handybot](https://github.com/ycheng517/tabletop-handybot) - AI-powered robot arm assistant.
+
+### Related `awesome-*` lists
+
+- [awesome-foundation-model-ros](https://github.com/ycheng517/awesome-foundation-model-ros) - a collection of ROS projects and resources utilizing or simplifying the application of foundation models in robotics.
 
 ## Papers
