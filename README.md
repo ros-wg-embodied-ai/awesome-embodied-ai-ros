@@ -11,6 +11,9 @@ A curated list of repositories and papers on Embodied AI in ROS ecosystem.
 
 - [rai](https://github.com/RobotecAI/rai) - a generic AI Agent framework for ROS 2.
 - [ROSA](https://github.com/nasa-jpl/rosa) - to inspect, diagnose, understand, and operate robots.
+- [ros4hri](https://github.com/ros4hri) - umbrella for all the ROS packages, conventions and tools that help developing interactive robots with ROS.
+- [stretch_ai](https://github.com/hello-robot/stretch_ai) - designed to help researchers and developers build intelligent behaviors for the Stretch 3 mobile manipulator.
+- [turtlebot3_drlnav](https://github.com/tomasvr/turtlebot3_drlnav) - A ROS2 framework for DRL autonomous navigation on mobile robots with LiDAR.
 
 ### User tools
 
