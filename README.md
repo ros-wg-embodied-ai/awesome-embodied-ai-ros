@@ -45,7 +45,7 @@ A curated list of repositories and papers on Embodied AI in ROS ecosystem.
 
 ### Stale repositories
 
-- [turtlebot3_drlnav](https://github.com/tomasvr/turtlebot3_drlnav) - A ROS2 framework for DRL autonomous navigation on mobile robots with LiDAR.
+- [turtlebot3_drlnav](https://github.com/tomasvr/turtlebot3_drlnav) - A ROS 2 framework for DRL autonomous navigation on mobile robots with LiDAR.
 
 ### Related `awesome-*` lists
 
