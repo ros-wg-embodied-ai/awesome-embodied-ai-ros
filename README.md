@@ -13,7 +13,9 @@ A curated list of repositories and papers on Embodied AI in ROS ecosystem.
 - [ROSA](https://github.com/nasa-jpl/rosa) - to inspect, diagnose, understand, and operate robots.
 - [ros4hri](https://github.com/ros4hri) - umbrella for all the ROS packages, conventions and tools that help developing interactive robots with ROS.
 - [stretch_ai](https://github.com/hello-robot/stretch_ai) - designed to help researchers and developers build intelligent behaviors for the Stretch 3 mobile manipulator.
-- [turtlebot3_drlnav](https://github.com/tomasvr/turtlebot3_drlnav) - A ROS2 framework for DRL autonomous navigation on mobile robots with LiDAR.
+
+### Tools
+ - [ros_to_markdown](https://github.com/RobRoyce/ros_to_markdown) - Convert ROS systems to Markdown for LLM processing.
 
 ### User tools
 
@@ -24,12 +26,19 @@ A curated list of repositories and papers on Embodied AI in ROS ecosystem.
 - [llama_ros](https://github.com/mgonzs13/llama_ros) - integrated llama.cpp
 - [whisper_ros](https://github.com/mgonzs13/whisper_ros) - listen to speech and generate responses.
 
+### Inference & Training
+- [mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+
 ### Projects
 
 - [rai-agriculture-demo](https://github.com/RobotecAI/rai-agriculture-demo) + [rai docs link](https://github.com/RobotecAI/rai/blob/development/docs/demos/agriculture.md) - in a beautiful scene of a virtual orchard, RAI goes beyond obstacle detection to analyze best course of action for a given unexpected situation.
 - [rai-manipulation-demo](https://github.com/RobotecAI/rai-manipulation-demo) + [rai docs link](https://github.com/RobotecAI/rai/blob/development/docs/demos/manipulation.md) - complete flexible manipulation tasks thanks to RAI and Grounded SAM 2 
 - [rai-rosbot-xl-demo](https://github.com/RobotecAI/rai-rosbot-xl-demo) + [rai docs link](https://github.com/RobotecAI/rai/blob/development/docs/demos/rosbot_xl.md) - demonstrate RAI's interaction with an autonomous mobile robot platform for navigation and control
 - [tabletop-handybot](https://github.com/ycheng517/tabletop-handybot) - AI-powered robot arm assistant.
+
+### Stale repositories
+- [turtlebot3_drlnav](https://github.com/tomasvr/turtlebot3_drlnav) - A ROS2 framework for DRL autonomous navigation on mobile robots with LiDAR.
 
 ### Related `awesome-*` lists
 
