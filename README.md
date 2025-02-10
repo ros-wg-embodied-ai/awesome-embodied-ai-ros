@@ -57,6 +57,7 @@ Interensting projects without `ROS` integration yet
 
 ### Vision-Language-Action Models & Projects
 
+- [openpi](https://github.com/Physical-Intelligence/openpi) - Physical Intelligence robot packages and models, including $\pi$ 0, a flow-based diffusion vision-language-action model.
 - [open-pi-zero](https://github.com/allenzren/open-pi-zero) - this repo implements the pi0 model from Physical Intelligence (Pi)
 
 ### World Foundation Models
