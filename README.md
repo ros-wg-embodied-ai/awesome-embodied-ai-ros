@@ -65,3 +65,5 @@ Interensting projects without `ROS` integration yet
 - [Cosmos](https://github.com/NVIDIA/Cosmos) - developer-first world foundation model platform  designed to help developers build their Physical AI systems 
 
 ## Papers
+
+- [RAI: Flexible Agent Framework for Embodied AI](https://arxiv.org/abs/2505.07532) - presents RAI, a modular framework for building and evaluating embodied multi-agent systems integrated with robots, simulations, and language models.
