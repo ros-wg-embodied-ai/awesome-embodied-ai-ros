@@ -18,6 +18,7 @@ A curated list of repositories and papers on Embodied AI in ROS ecosystem.
 
 - [ros_to_markdown](https://github.com/RobRoyce/ros_to_markdown) - convert ROS systems to Markdown for LLM processing.
 - [git2md](https://github.com/xpos587/git2md) - tool for converting Git repository contents into Markdown format.
+- [physical_ai_tools](https://github.com/ROBOTIS-GIT/physical_ai_tools) - interface for developing Physical AI applications using LeRobot and ROS 2.
 
 ### User tools
 
